@@ -1,15 +1,15 @@
 /* Main Color Scheme */
 :root {
-  --primary-color: #6C63FF;
-  --secondary-color: #FF6584;
-  --accent-color: #43CBFF;
-  --dark-color: #2A2A2A;
-  --light-color: #F8F9FA;
-  --gradient-primary: linear-gradient(135deg, #6C63FF 0%, #43CBFF 100%);
-  --gradient-secondary: linear-gradient(135deg, #FF6584 0%, #FF8E53 100%);
-  --box-shadow: 0 10px 30px rgba(108, 99, 255, 0.15);
-  --transition: all 0.3s ease;
-}
+    --primary-color: #1E40AF;
+    --secondary-color: #F59E0B;
+    --accent-color: #0284C7;
+    --dark-color: #0F172A;
+    --light-color: #F9FAFB;
+    --gradient-primary: linear-gradient(135deg, #1E40AF 0%, #3B82F6 100%);
+    --gradient-secondary: linear-gradient(135deg, #F59E0B 0%, #FBBF24 100%);
+    --box-shadow: 0 10px 30px rgba(30, 64, 175, 0.15);
+    --transition: all 0.3s ease;
+  }
 
 /* Global Styles */
 body {
