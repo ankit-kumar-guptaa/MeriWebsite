@@ -319,76 +319,7 @@
 </section>
 
 <!-- Testimonials Section -->
-<section class="section-padding bg-light">
-    <div class="container">
-        <div class="section-title text-center">
-            <h2>Client Testimonials</h2>
-            <p>What our clients say about our services</p>
-        </div>
-        
-        <div class="row">
-            <div class="col-md-4 mb-4 mb-md-0">
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                    </div>
-                    <p class="testimonial-text">"MeriWebsite transformed our online presence completely. Their team delivered a stunning website that perfectly represents our brand and has significantly increased our customer engagement."</p>
-                    <div class="testimonial-author">
-                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" alt="Client" class="img-fluid rounded-circle">
-                        <div>
-                            <h5>Rajesh Kumar</h5>
-                            <p class="mb-0">CEO, TechSolutions</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-md-4 mb-4 mb-md-0">
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                    </div>
-                    <p class="testimonial-text">"Working with MeriWebsite was a pleasure from start to finish. They understood our requirements perfectly and delivered a website that exceeded our expectations. Highly recommended!"</p>
-                    <div class="testimonial-author">
-                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" alt="Client" class="img-fluid rounded-circle">
-                        <div>
-                            <h5>Priya Sharma</h5>
-                            <p class="mb-0">Marketing Director, StyleHub</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-md-4">
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                        <i class="fas fa-star"></i>
-                    </div>
-                    <p class="testimonial-text">"The e-commerce website developed by MeriWebsite has helped us increase our online sales by 200%. Their attention to detail and technical expertise is truly impressive."</p>
-                    <div class="testimonial-author">
-                        <img src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80" alt="Client" class="img-fluid rounded-circle">
-                        <div>
-                            <h5>Amit Patel</h5>
-                            <p class="mb-0">Owner, FashionMart</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <!-- CTA Section -->
 <section class="cta-section">
@@ -489,7 +420,7 @@
 </section>
 
 <!-- Clients Section -->
-<section class="section-padding">
+<!-- <section class="section-padding">
     <div class="container">
         <div class="section-title text-center">
             <h2>Our Clients</h2>
@@ -517,7 +448,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- WhatsApp Button -->
 <a href="https://wa.me/919876543210" class="whatsapp-btn" target="_blank">

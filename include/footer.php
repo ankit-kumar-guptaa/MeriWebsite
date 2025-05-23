@@ -34,7 +34,8 @@
       <div class="col-md-3 mb-4">
         <h5 class="mb-4">Contact Us</h5>
         <ul class="list-unstyled">
-          <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i> 123 Web Street, Digital City</li>
+          <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i>916, Astralis Tower, Supernova
+          Sector 94, Noida, India</li>
           <li class="mb-2"><i class="fas fa-phone me-2"></i> +91 9876543210</li>
           <li class="mb-2"><i class="fas fa-envelope me-2"></i> info@meriwebsite.com</li>
           <li class="mt-4">

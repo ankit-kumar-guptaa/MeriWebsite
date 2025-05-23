@@ -9,13 +9,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+          <a class="nav-link<?php echo (basename($_SERVER['PHP_SELF']) == 'index.php') ? ' active' : ''; ?>" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about.php">About Us</a>
+          <a class="nav-link<?php echo (basename($_SERVER['PHP_SELF']) == 'about.php') ? ' active' : ''; ?>" href="about.php">About Us</a>
         </li>
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="services.php" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Services
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -30,19 +30,19 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="portfolio.php">Portfolio</a>
+          <a class="nav-link<?php echo (basename($_SERVER['PHP_SELF']) == 'portfolio.php') ? ' active' : ''; ?>" href="portfolio.php">Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="pricing.php">Pricing</a>
+          <a class="nav-link<?php echo (basename($_SERVER['PHP_SELF']) == 'pricing.php') ? ' active' : ''; ?>" href="pricing.php">Pricing</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="blog.php">Blog</a>
+          <a class="nav-link<?php echo (basename($_SERVER['PHP_SELF']) == 'blog.php') ? ' active' : ''; ?>" href="blog.php">Blog</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="faq.php">FAQ</a>
+          <a class="nav-link<?php echo (basename($_SERVER['PHP_SELF']) == 'faq.php') ? ' active' : ''; ?>" href="faq.php">FAQ</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.php">Contact</a>
+          <a class="nav-link<?php echo (basename($_SERVER['PHP_SELF']) == 'contact.php') ? ' active' : ''; ?>" href="contact.php">Contact</a>
         </li>
         <li class="nav-item ms-2">
           <a class="btn btn-primary rounded-pill px-4 nav-btn" href="quote.php">
