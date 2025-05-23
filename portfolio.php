@@ -393,7 +393,7 @@
         <div class="row mb-5">
             <div class="col-lg-10 mx-auto" data-aos="fade-up" data-aos-delay="100">
                 <div class="laptop-display">
-                    <img src="https://freepngimg.com/thumb/laptop/9-laptop-png-image.png" alt="Laptop Frame" class="laptop-frame">
+                    <!-- <img src="https://freepngimg.com/thumb/laptop/9-laptop-png-image.png" alt="Laptop Frame" class="laptop-frame"> -->
                     <div class="laptop-screen">
                         <div class="screen-content">
                             <!-- यहां आप अपनी पसंद की इमेज लगा सकते हैं -->
@@ -409,7 +409,7 @@
             <div class="col-lg-4 col-md-6 portfolio-item-wrapper" data-category="healthcare" data-aos="fade-up">
                 <div class="portfolio-item">
                     <div class="portfolio-img">
-                        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/free-medical-website-templates.jpg" alt="Hospital Placement" class="img-fluid">
+                        <img src="portfolio/hospital.png" alt="Hospital Placement" class="img-fluid">
                     </div>
                     <div class="portfolio-content">
                         <h3>Hospital Placement</h3>
@@ -431,7 +431,7 @@
             <div class="col-lg-4 col-md-6 portfolio-item-wrapper" data-category="corporate" data-aos="fade-up" data-aos-delay="100">
                 <div class="portfolio-item">
                     <div class="portfolio-img">
-                        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/consulto-free-template.jpg" alt="Elite Corporate Solutions" class="img-fluid">
+                        <img src="portfolio/elite.png" alt="Elite Corporate Solutions" class="img-fluid">
                     </div>
                     <div class="portfolio-content">
                         <h3>Elite Corporate Solutions</h3>
@@ -453,7 +453,7 @@
             <div class="col-lg-4 col-md-6 portfolio-item-wrapper" data-category="ngo" data-aos="fade-up" data-aos-delay="200">
                 <div class="portfolio-item">
                     <div class="portfolio-img">
-                        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/charity-free-template.jpg" alt="GreenCar Carpool" class="img-fluid">
+                        <img src="portfolio/greencar.png" alt="GreenCar Carpool" class="img-fluid">
                     </div>
                     <div class="portfolio-content">
                         <h3>GreenCar Carpool</h3>
@@ -475,7 +475,7 @@
             <div class="col-lg-4 col-md-6 portfolio-item-wrapper" data-category="corporate" data-aos="fade-up" data-aos-delay="100">
                 <div class="portfolio-item">
                     <div class="portfolio-img">
-                        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/responsive-html5-website-templates.jpg" alt="Employee Daily Tracker" class="img-fluid">
+                        <img src="portfolio/daily-tracker.png" alt="Employee Daily Tracker" class="img-fluid">
                     </div>
                     <div class="portfolio-content">
                         <h3>Elite Employee Daily Tracker</h3>
@@ -497,7 +497,7 @@
             <div class="col-lg-4 col-md-6 portfolio-item-wrapper" data-category="it" data-aos="fade-up" data-aos-delay="200">
                 <div class="portfolio-item">
                     <div class="portfolio-img">
-                        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/hostza-free-template.jpg" alt="IT Sahayata" class="img-fluid">
+                        <img src="portfolio/it.png" alt="IT Sahayata" class="img-fluid">
                     </div>
                     <div class="portfolio-content">
                         <h3>IT Sahayata</h3>
@@ -519,7 +519,7 @@
             <div class="col-lg-4 col-md-6 portfolio-item-wrapper" data-category="healthcare" data-aos="fade-up" data-aos-delay="300">
                 <div class="portfolio-item">
                     <div class="portfolio-img">
-                        <img src="https://colorlib.com/wp/wp-content/uploads/sites/2/dentist-free-template.jpg" alt="SmileCo Dentist" class="img-fluid">
+                        <img src="portfolio/smile.png" alt="SmileCo Dentist" class="img-fluid">
                     </div>
                     <div class="portfolio-content">
                         <h3>SmileCo Dentistry</h3>
@@ -559,7 +559,7 @@
                         <p>"MeriWebsite transformed our hospital's online presence completely. The website is not only visually appealing but also user-friendly and informative. Our patient inquiries have increased by 40% since the launch."</p>
                     </div>
                     <div class="testimonial-author">
-                        <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Dr. Rajesh Kumar">
+                        <!-- <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Dr. Rajesh Kumar"> -->
                         <div class="testimonial-author-info">
                             <h5>Dr. Rajesh Kumar</h5>
                             <p>Director, Hospital Placement</p>
@@ -574,7 +574,7 @@
                         <p>"The team at MeriWebsite understood our corporate needs perfectly. They delivered a professional website that truly represents our brand values. The employee tracker tool they developed has streamlined our operations."</p>
                     </div>
                     <div class="testimonial-author">
-                        <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Priya Sharma">
+                        <!-- <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Priya Sharma"> -->
                         <div class="testimonial-author-info">
                             <h5>Priya Sharma</h5>
                             <p>CEO, Elite Corporate Solutions</p>
@@ -589,7 +589,7 @@
                         <p>"As a non-profit organization, we needed a website that could effectively communicate our mission and encourage participation. MeriWebsite delivered exactly what we needed, and we've seen a significant increase in volunteer sign-ups."</p>
                     </div>
                     <div class="testimonial-author">
-                        <img src="https://randomuser.me/api/portraits/men/67.jpg" alt="Amit Verma">
+                        <!-- <img src="https://randomuser.me/api/portraits/men/67.jpg" alt="Amit Verma"> -->
                         <div class="testimonial-author-info">
                             <h5>Amit Verma</h5>
                             <p>Founder, GreenCar NGO</p>
@@ -705,6 +705,6 @@
     });
 </script>
 
-<?php include 'include/footer.php'; ?>
+
 </body>
 </html>
