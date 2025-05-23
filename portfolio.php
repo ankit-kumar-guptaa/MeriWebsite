@@ -541,65 +541,7 @@
 </section>
 
 <!-- Client Testimonials -->
-<section class="section-padding bg-light">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 mx-auto text-center" data-aos="fade-up">
-                <div class="section-title">
-                    <h2>Client Testimonials</h2>
-                    <p>Here's what our clients have to say about their experience working with us.</p>
-                </div>
-            </div>
-        </div>
-        
-        <div class="row">
-            <div class="col-md-4" data-aos="fade-up">
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        <p>"MeriWebsite transformed our hospital's online presence completely. The website is not only visually appealing but also user-friendly and informative. Our patient inquiries have increased by 40% since the launch."</p>
-                    </div>
-                    <div class="testimonial-author">
-                        <!-- <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Dr. Rajesh Kumar"> -->
-                        <div class="testimonial-author-info">
-                            <h5>Dr. Rajesh Kumar</h5>
-                            <p>Director, Hospital Placement</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-md-4" data-aos="fade-up" data-aos-delay="100">
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        <p>"The team at MeriWebsite understood our corporate needs perfectly. They delivered a professional website that truly represents our brand values. The employee tracker tool they developed has streamlined our operations."</p>
-                    </div>
-                    <div class="testimonial-author">
-                        <!-- <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Priya Sharma"> -->
-                        <div class="testimonial-author-info">
-                            <h5>Priya Sharma</h5>
-                            <p>CEO, Elite Corporate Solutions</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
-            <div class="col-md-4" data-aos="fade-up" data-aos-delay="200">
-                <div class="testimonial-card">
-                    <div class="testimonial-content">
-                        <p>"As a non-profit organization, we needed a website that could effectively communicate our mission and encourage participation. MeriWebsite delivered exactly what we needed, and we've seen a significant increase in volunteer sign-ups."</p>
-                    </div>
-                    <div class="testimonial-author">
-                        <!-- <img src="https://randomuser.me/api/portraits/men/67.jpg" alt="Amit Verma"> -->
-                        <div class="testimonial-author-info">
-                            <h5>Amit Verma</h5>
-                            <p>Founder, GreenCar NGO</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <!-- CTA Section -->
 <section class="section-padding">
