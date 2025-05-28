@@ -461,7 +461,7 @@
 <?php include('include/footer.php'); ?>
 
 <!-- FAQ Toggle Script -->
-<script>
+<!-- <script>
 document.addEventListener('DOMContentLoaded', function() {
     const faqQuestions = document.querySelectorAll('.faq-question');
     
@@ -480,7 +480,7 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
     alert('Thank you for your message! We will get back to you soon.');
     this.reset();
 });
-</script>
+</script> -->
 <script>
     // Add this to your existing script.js
 document.getElementById('contactForm').addEventListener('submit', async function(e) {
