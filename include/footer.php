@@ -36,7 +36,7 @@
         <ul class="list-unstyled">
           <li class="mb-2"><i class="fas fa-map-marker-alt me-2"></i>916, Astralis Tower, Supernova
           Sector 94, Noida, India</li>
-          <li class="mb-2"><i class="fas fa-phone me-2"></i> +91 9876543210</li>
+          <li class="mb-2"><i class="fas fa-phone me-2"></i> +91 7835060707</li>
           <li class="mb-2"><i class="fas fa-envelope me-2"></i> info@meriwebsite.com</li>
           <li class="mt-4">
             <a href="quote.php" class="btn btn-primary rounded-pill px-4">Get a Quote</a>
@@ -47,7 +47,7 @@
     <hr class="my-4">
     <div class="row">
       <div class="col-md-6">
-        <p class="mb-md-0">&copy; 2023 MeriWebsite. All Rights Reserved.</p>
+        <p class="mb-md-0">&copy; 2024 Elite Corporate Solutions. All Rights Reserved.</p>
       </div>
       <div class="col-md-6 text-md-end">
         <a href="privacy.php" class="text-white text-decoration-none me-3">Privacy Policy</a>
@@ -65,6 +65,6 @@
 <script src="js/script.js"></script>
 
 <!-- WhatsApp Quick Contact Button -->
-<a href="https://wa.me/919876543210" class="whatsapp-btn" target="_blank">
+<a href="https://wa.me/917835060707" class="whatsapp-btn" target="_blank">
   <i class="fab fa-whatsapp"></i>
 </a>

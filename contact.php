@@ -288,11 +288,11 @@
                         <div class="row">
                             <div class="col-md-6 mb-4">
                                 <label for="name" class="form-label">Your Name</label>
-                                <input type="text" class="form-control" id="name" placeholder="John Doe" required>
+                                <input type="text" class="form-control" id="name" placeholder="name" required>
                             </div>
                             <div class="col-md-6 mb-4">
                                 <label for="email" class="form-label">Email Address</label>
-                                <input type="email" class="form-control" id="email" placeholder="john@example.com" required>
+                                <input type="email" class="form-control" id="email" placeholder="email@example.com" required>
                             </div>
                         </div>
                         
@@ -352,7 +352,7 @@
                         </div>
                         <div>
                             <h3 class="h6 mb-1">Phone</h3>
-                            <p class="mb-0">+91 9876543210</p>
+                            <p class="mb-0">+91 7835060707</p>
                             <p class="mb-0 small">Mon-Fri, 9am-6pm</p>
                         </div>
                     </div>
@@ -479,6 +479,41 @@ document.getElementById('contactForm').addEventListener('submit', function(e) {
     // Here you would normally add AJAX to submit the form
     alert('Thank you for your message! We will get back to you soon.');
     this.reset();
+});
+</script>
+<script>
+    // Add this to your existing script.js
+document.getElementById('contactForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+
+    const formData = {
+        name: document.getElementById('name').value,
+        email: document.getElementById('email').value,
+        phone: document.getElementById('phone').value,
+        subject: document.getElementById('subject').value,
+        message: document.getElementById('message').value
+    };
+
+    try {
+        const response = await fetch('process_contact.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(formData)
+        });
+
+        const result = await response.json();
+
+        if (result.status === 'success') {
+            alert('Thank you! Your message has been sent successfully.');
+            this.reset();
+        } else {
+            alert('Error: ' + result.message);
+        }
+    } catch (error) {
+        alert('Error sending message. Please try again later.');
+    }
 });
 </script>
 

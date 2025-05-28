@@ -638,7 +638,7 @@
                     <div class="counter-icon">
                         <i class="fas fa-trophy"></i>
                     </div>
-                    <div class="counter-number" data-count="15">0</div>
+                    <div class="counter-number" data-count="8">0</div>
                     <div class="counter-text">Awards Won</div>
                 </div>
             </div>
@@ -647,7 +647,7 @@
                     <div class="counter-icon">
                         <i class="fas fa-clock"></i>
                     </div>
-                    <div class="counter-number" data-count="5">0</div>
+                    <div class="counter-number" data-count="15">0</div>
                     <div class="counter-text">Years Experience</div>
                 </div>
             </div>
